@@ -1,0 +1,24 @@
+ - secrets of js ninja
+ - node toolkit
+ - http://bit.ly/js-vid-1(video)
+ - sails.js
+ - express generator
+ - nodemon
+ - zen coding
+ - jade template
+ - event stream
+ - SPDY
+ - QUIC
+ - nodejs-websocket
+ - nodeunit
+ - signon.js
+ - owasp(kraken)
+ - async
+ 
+ 
+ 
+ contact details:
+ 
+ tkmagesh77@gmail.com
+ 99019-11221
+ 
